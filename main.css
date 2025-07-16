@@ -56,3 +56,25 @@
     margin: 1%;
 }
 
+#checkout_header{
+    margin-top: 30px;
+}
+
+#checkout{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.backgroundwanted{
+    background-color: #e4ede6;
+    padding: 20PX;
+
+}
+.staddressc{
+width: 75%;
+}
+
+.checkoutinfo{
+    width: 25%
+}
+
